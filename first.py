@@ -1,0 +1,1 @@
+print('Study python basic')
